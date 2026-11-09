@@ -66,13 +66,13 @@ The project uses an Excel dataset containing three worksheets:
 
 ## Key Findings
 
-- The United States recorded the highest cumulative deaths in the dataset as of May 29, 2021.
+- The United States recorded the highest cumulative deaths (594,306) as of May 29, 2021.
 - France experienced the highest single-day surge among Germany, France, and Italy, with 117,900 reported new cases on April 11, 2021.
-- Canada had a higher recovery rate than Australia as of December 31, 2020.
-- Quebec recorded the highest death rate among Canadian provinces and territories.
-- Yemen recorded the highest average daily death-rate percentage among the countries analyzed during 2020.
-- South Africa recorded substantially more recoveries than deaths.
-- The United States recorded its highest monthly recovery ratio in October 2020.
+- Canada recorded a higher recovery rate (84.47%) than Australia (79.38%) as of December 31, 2020.
+- Quebec had the highest death rate (3.01%) among Canadian provinces and territories.
+- Yemen recorded the highest average daily death-rate percentage (24.95%) among the countries analyzed during 2020, followed by Sudan (10.37%) and Italy (9.72%).
+- South Africa recorded 1,554,184 recoveries compared with 56,363 deaths as of May 29, 2021.
+- The United States recorded its highest monthly recovery ratio (39.58%) in October 2020.
 
 ## Important Data Limitations
 
@@ -117,15 +117,23 @@ COVID-19-Data-Analysis/
 ## Project Visualizations
 
 ### 1. Top 5 Countries - Confirmed Cases
+Comparison of cumulative confirmed COVID-19 cases across the top five countries.
+
 ![Top 5 Countries](images/top_5_countries_confirmed_cases.png)
 
 ### 2. China - Confirmed Cases Trend
+Cumulative confirmed cases in China over the analysis period.
+
 ![China Confirmed Cases](images/china_confirmed_cases.png)
 
 ### 3. United States - Cumulative Deaths
+Progression of cumulative COVID-19 deaths in the United States.
+
 ![US Cumulative Deaths](images/us_cumulative_deaths.png)
 
 ### 4. United States - Monthly Recovery Ratio
+Monthly recovery ratio in the United States from March 2020 to May 2021.
+
 ![US Recovery Ratio](images/us_monthly_recovery_ratio.png)
 
 ## Conclusion
