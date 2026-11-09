@@ -114,6 +114,20 @@ COVID-19-Data-Analysis/
 └── .gitignore
 ```
 
+## Project Visualizations
+
+### 1. Top 5 Countries - Confirmed Cases
+![Top 5 Countries](images/top_5_countries_confirmed_cases.png)
+
+### 2. China - Confirmed Cases Trend
+![China Confirmed Cases](images/china_confirmed_cases.png)
+
+### 3. United States - Cumulative Deaths
+![US Cumulative Deaths](images/us_cumulative_deaths.png)
+
+### 4. United States - Monthly Recovery Ratio
+![US Recovery Ratio](images/us_monthly_recovery_ratio.png)
+
 ## Conclusion
 
 This project demonstrates practical data analysis skills using Python, Pandas, NumPy, and Matplotlib. It covers data cleaning, exploratory data analysis, data transformation, merging, statistical calculations, and data visualization to understand the global impact of COVID-19.
